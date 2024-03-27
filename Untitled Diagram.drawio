@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" modified="2024-03-27T13:20:49.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Wp-QvHSuIPkeQKACKOrx" version="24.2.0" type="github">
+  <diagram name="Page-1" id="JHAw3RTOnIAEJojBC2UT">
+    <mxGraphModel dx="1553" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CTVwaTykgYjuy8Cknapb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="90" width="820" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-1" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-3" value="8000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-4" value="Linux" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="170" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CTVwaTykgYjuy8Cknapb-5" target="CTVwaTykgYjuy8Cknapb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-5" value="8888" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-7" value="host&amp;nbsp;&lt;div&gt;port = 8000&lt;/div&gt;&lt;div&gt;ssl-keyfile =&amp;nbsp;&lt;/div&gt;&lt;div&gt;ssl certfile=&amp;nbsp;&lt;/div&gt;&lt;div&gt;ssl ca crtfile =&amp;nbsp;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="530" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-8" value="cert&lt;div&gt;key (private)&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-13" value="8003" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CTVwaTykgYjuy8Cknapb-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="CTVwaTykgYjuy8Cknapb-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="350" as="sourcePoint" />
+            <mxPoint x="180" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
